@@ -1,0 +1,258 @@
+{
+  "currentVersion" : 10.81, 
+  "id" : 1, 
+  "name" : "NOAA TORNADO Storm Reports (24 hours)", 
+  "type" : "Feature Layer", 
+  "serviceItemId" : "e109e8fd9c5a495c813b5cbaee9c7d9b", 
+  "isView" : true, 
+  "isUpdatableView" : true, 
+  "sourceSchemaChangesAllowed" : true, 
+  "displayField" : "F_SCALE", 
+  "description" : "This map contains continuously updated US tornado reports, wind storm reports and hail storm reports. ", 
+  "copyrightText" : "NOAA, Esri", 
+  "defaultVisibility" : true, 
+  "editingInfo" : {
+    "lastEditDate" : 1621912669838
+  }, 
+  "relationships" : [], 
+  "isDataVersioned" : false, 
+  "supportsAppend" : true, 
+  "supportsCalculate" : true, 
+  "supportsASyncCalculate" : true, 
+  "supportsTruncate" : false, 
+  "supportsAttachmentsByUploadId" : true, 
+  "supportsAttachmentsResizing" : true, 
+  "supportsRollbackOnFailureParameter" : true, 
+  "supportsStatistics" : true, 
+  "supportsExceedsLimitStatistics" : true, 
+  "supportsAdvancedQueries" : true, 
+  "supportsValidateSql" : true, 
+  "supportsCoordinatesQuantization" : true, 
+  "supportsLayerOverrides " : true, 
+  "supportsTilesAndBasicQueriesMode" : true, 
+  "supportsContingentValues" : true, 
+  "supportsFieldDescriptionProperty" : true, 
+  "supportsQuantizationEditMode" : true, 
+  "supportsApplyEditsWithGlobalIds" : false, 
+  "supportsReturningQueryGeometry" : true, 
+  "advancedQueryCapabilities" : {
+    "supportsPagination" : true, 
+    "supportsPaginationOnAggregatedQueries" : true, 
+    "supportsQueryRelatedPagination" : true, 
+    "supportsQueryWithDistance" : true, 
+    "supportsReturningQueryExtent" : true, 
+    "supportsStatistics" : true, 
+    "supportsOrderBy" : true, 
+    "supportsDistinct" : true, 
+    "supportsQueryWithResultType" : true, 
+    "supportsSqlExpression" : true, 
+    "supportsAdvancedQueryRelated" : true, 
+    "supportsCountDistinct" : true, 
+    "supportsPercentileStatistics" : true, 
+    "supportsLod" : true, 
+    "supportsQueryWithLodSR" : false, 
+    "supportedLodTypes" : [
+      "geohash"
+    ], 
+    "supportsReturningGeometryCentroid" : false, 
+    "supportsQueryWithDatumTransformation" : true, 
+    "supportsHavingClause" : true, 
+    "supportsOutFieldSQLExpression" : true, 
+    "supportsMaxRecordCountFactor" : true, 
+    "supportsTopFeaturesQuery" : true, 
+    "supportsDisjointSpatialRel" : true, 
+    "supportsQueryWithCacheHint" : true, 
+    "supportsQueryAnalytic" : true
+  }, 
+  "useStandardizedQueries" : true, 
+  "geometryType" : "esriGeometryPoint", 
+  "minScale" : 0, 
+  "maxScale" : 0, 
+  "extent" : {
+    "xmin" : -20037507.842788249, 
+    "ymin" : -30240971.458386149, 
+    "xmax" : 20037507.842788249, 
+    "ymax" : 30240971.458386149, 
+    "spatialReference" : {
+      "wkid" : 102100, 
+      "latestWkid" : 3857
+    }
+  }, 
+  "drawingInfo":{"renderer":{"type":"simple","symbol":{"type":"esriPMS","url":"ffccf4d0e3392835ca926b5d4444c990","imageData":"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","contentType":"image/png","width":22,"height":27,"angle":0,"xoffset":0,"yoffset":0},"label":"","description":""},"transparency":0,"labelingInfo":null}, 
+  "allowGeometryUpdates" : true, 
+  "hasAttachments" : false, 
+  "viewSourceHasAttachments" : false, 
+  "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText", 
+  "hasM" : false, 
+  "hasZ" : false, 
+  "objectIdField" : "OBJECTID", 
+  "uniqueIdField" : 
+  {
+    "name" : "OBJECTID", 
+    "isSystemMaintained" : true
+  }, 
+  "globalIdField" : "", 
+  "typeIdField" : "", 
+  "fields" : [
+    {
+      "name" : "OBJECTID", 
+      "type" : "esriFieldTypeOID", 
+      "alias" : "OBJECTID", 
+      "sqlType" : "sqlTypeOther", 
+      "nullable" : false, 
+      "editable" : false, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "UTC_DATETIME", 
+      "type" : "esriFieldTypeDate", 
+      "alias" : "Date/Time", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 8, 
+      "nullable" : true, 
+      "editable" : true, 
+      "isViewOverride" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "F_SCALE", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "Fujita Scale", 
+      "sqlType" : "sqlTypeOther", 
+      "nullable" : true, 
+      "editable" : true, 
+      "isViewOverride" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "LOCATION", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Location", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 125, 
+      "nullable" : true, 
+      "editable" : true, 
+      "isViewOverride" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "COUNTY", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "County", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 50, 
+      "nullable" : true, 
+      "editable" : true, 
+      "isViewOverride" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "STATE", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "State", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 2, 
+      "nullable" : true, 
+      "editable" : true, 
+      "isViewOverride" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "LATITUDE", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "Latitude", 
+      "sqlType" : "sqlTypeOther", 
+      "nullable" : true, 
+      "editable" : true, 
+      "isViewOverride" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "LONGITUDE", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "Longitude", 
+      "sqlType" : "sqlTypeOther", 
+      "nullable" : true, 
+      "editable" : true, 
+      "isViewOverride" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "COMMENTS", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Comments", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 255, 
+      "nullable" : true, 
+      "editable" : true, 
+      "isViewOverride" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }
+  ], 
+  "indexes" : [
+    {
+      "name" : "PK__NOAA_STO__F4B70D85B69944EF", 
+      "fields" : "OBJECTID", 
+      "isAscending" : true, 
+      "isUnique" : true, 
+      "description" : ""
+    }, 
+    {
+      "name" : "user_20840.NOAA_STORM_REPORTS_NOAA_TORNADO_STORM_REPORTS__24_HOURS_40_Shape_sidx", 
+      "fields" : "Shape", 
+      "isAscending" : true, 
+      "isUnique" : false, 
+      "description" : ""
+    }, 
+    {
+      "name" : "I3UTC_DATETIME", 
+      "fields" : "UTC_DATETIME", 
+      "isAscending" : true, 
+      "isUnique" : false, 
+      "description" : ""
+    }
+  ], 
+  "dateFieldsTimeReference" : {
+    "timeZone" : "UTC", 
+    "respectsDaylightSaving" : false
+  }, 
+  "preferredTimeReference" : null, 
+  "types" : [], 
+  "templates" : [
+    {
+      "name" : "NOAA TORNADO Storm Reports (24 hours)", 
+      "description" : "", 
+      "drawingTool" : "esriFeatureEditToolPoint", 
+      "prototype" : {
+        "attributes" : {
+          "LONGITUDE" : null, 
+          "COMMENTS" : null, 
+          "UTC_DATETIME" : null, 
+          "F_SCALE" : null, 
+          "LOCATION" : null, 
+          "COUNTY" : null, 
+          "STATE" : null, 
+          "LATITUDE" : null
+        }
+      }
+    }
+  ], 
+  "supportedQueryFormats" : "JSON, geoJSON, PBF", 
+  "supportedAppendFormats" : "sqlite,gpkg,shapefile,filegdb,featureCollection,geojson,csv,excel", 
+  "hasStaticData" : true, 
+  "maxRecordCount" : 10000, 
+  "standardMaxRecordCount" : 32000, 
+  "standardMaxRecordCountNoGeometry" : 32000, 
+  "tileMaxRecordCount" : 8000, 
+  "maxRecordCountFactor" : 1, 
+  "capabilities" : "Query"
+}
