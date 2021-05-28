@@ -1,66 +1,69 @@
 <?xml version="1.0" encoding="utf-8"? standalone="yes"?>
  <feed xmlns="http://www.w3.org/2005/Atom"
        xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" 
-       xmlns:georss="http://www.georss.org/georss">
-   <title>Pontianak Spot</title>
-   <author>
-      <name>Evan Edbert</name>
-      <email>evan.edbert@binus.ac.id</email>
-   </author>
-   <entry>
-      <id>1</id>
-      <title>Rumah Sakit Mitra Medika</title>	
-      <georss:point>-0.0366396002310127 109.32923988720279</georss:point>
-      <geo:lat>-0.0366396002310127</geo:lat>
-      <geo:long>109.32923988720279</geo:long>
-   </entry>
-   <entry>
-      <id>2</id>
-      <title>Avatar Games</title>	
-      <georss:point>-0.038607713657094235 109.31536715838614</georss:point>
-      <geo:lat>-0.038607713657094235</geo:lat>
-      <geo:long>109.31536715838614</geo:long>
-   </entry>
-   <entry>
-      <id>3</id>
-      <title>Rumah Shabby And Roof Top Cafe</title>	
-      <georss:point>-0.03504574089089836 109.31781333313462</georss:point>
-      <geo:lat>-0.03504574089089836</geo:lat>
-      <geo:long>109.31781333313462</geo:long>
-   </entry>
-   <entry>
-      <id>4</id>
-      <title>Aming Coffee 2</title>	
-      <georss:point>-0.05355410187953165 109.30573647586529</georss:point>
-      <geo:lat>-0.05355410187953165</geo:lat>
-      <geo:long>109.30573647586529</geo:long>
-   </entry>
-   <entry>
-      <id>5</id>
-      <title>BNI KK M.Yamin</title>	
-      <georss:point>-0.05863977283944164 109.307524407686294</georss:point>
-      <geo:lat>-0.05863977283944164</geo:lat>
-      <geo:long>109.307524407686294</geo:long>
-   </entry>
-   <entry>
-      <id>6</id>
-      <title>You Computer</title>	
-      <georss:point>-0.05113046196673768 109.31503372225269</georss:point>
-      <geo:lat>-0.05113046196673768</geo:lat>
-      <geo:long>109.31503372225269</geo:long>
-   </entry>
-   <entry>
-      <id>7</id>
-      <title>Cakra Arena GOR bulutangkis</title>	
-      <georss:point>-0.056096937593034774 109.33573400320833</georss:point>
-      <geo:lat>-0.056096937593034774</geo:lat>
-      <geo:long>109.33573400320833</geo:long>
-   </entry>
-   <entry>
-      <id>8</id>
-      <title>Klinik Hewan Purnama Pontianak</title>	
-      <georss:point>-0.05701076906347077 109.3280260291097</georss:point>
-      <geo:lat>-0.05701076906347077</geo:lat>
-      <geo:long>109.3280260291097</geo:long>
-   </entry>
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gml="http://www.opengis.net/gml">
+   <channel>
+       <title>Pontianak Spot</title>
+       <author>
+          <name>Evan Edbert</name>
+          <email>evan.edbert@binus.ac.id</email>
+       </author>
+       <entry>
+          <id>1</id>
+          <title>Rumah Sakit Mitra Medika</title>	
+          <georss:point>-0.0366396002310127 109.32923988720279</georss:point>
+          <geo:lat>-0.0366396002310127</geo:lat>
+          <geo:long>109.32923988720279</geo:long>
+       </entry>
+       <entry>
+          <id>2</id>
+          <title>Avatar Games</title>	
+          <georss:point>-0.038607713657094235 109.31536715838614</georss:point>
+          <geo:lat>-0.038607713657094235</geo:lat>
+          <geo:long>109.31536715838614</geo:long>
+       </entry>
+       <entry>
+          <id>3</id>
+          <title>Rumah Shabby And Roof Top Cafe</title>	
+          <georss:point>-0.03504574089089836 109.31781333313462</georss:point>
+          <geo:lat>-0.03504574089089836</geo:lat>
+          <geo:long>109.31781333313462</geo:long>
+       </entry>
+       <entry>
+          <id>4</id>
+          <title>Aming Coffee 2</title>	
+          <georss:point>-0.05355410187953165 109.30573647586529</georss:point>
+          <geo:lat>-0.05355410187953165</geo:lat>
+          <geo:long>109.30573647586529</geo:long>
+       </entry>
+       <entry>
+          <id>5</id>
+          <title>BNI KK M.Yamin</title>	
+          <georss:point>-0.05863977283944164 109.307524407686294</georss:point>
+          <geo:lat>-0.05863977283944164</geo:lat>
+          <geo:long>109.307524407686294</geo:long>
+       </entry>
+       <entry>
+          <id>6</id>
+          <title>You Computer</title>	
+          <georss:point>-0.05113046196673768 109.31503372225269</georss:point>
+          <geo:lat>-0.05113046196673768</geo:lat>
+          <geo:long>109.31503372225269</geo:long>
+       </entry>
+       <entry>
+          <id>7</id>
+          <title>Cakra Arena GOR bulutangkis</title>	
+          <georss:point>-0.056096937593034774 109.33573400320833</georss:point>
+          <geo:lat>-0.056096937593034774</geo:lat>
+          <geo:long>109.33573400320833</geo:long>
+       </entry>
+       <entry>
+          <id>8</id>
+          <title>Klinik Hewan Purnama Pontianak</title>	
+          <georss:point>-0.05701076906347077 109.3280260291097</georss:point>
+          <geo:lat>-0.05701076906347077</geo:lat>
+          <geo:long>109.3280260291097</geo:long>
+       </entry>
+   </channel>
  </feed>
