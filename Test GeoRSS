@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.1" encoding="utf-8"?>
 <?xml-stylesheet href="/eqcenter/catalogs/rssxsl.php?feed=eqs7day-M5.xml" type="text/xsl" 
                   media="screen"?>
 <feed
-   xmlns="http://www.w3.org/2005/Atom"
-   xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" 
+   xmlns="http://www.w3.org/2005/Atom" 
    xmlns:georss="http://www.georss.org/georss"
    xmlns:gml="http://www.opengis.net/gml">
       <title>Pontianak Spot</title>
