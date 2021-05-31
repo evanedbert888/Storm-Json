@@ -13,19 +13,19 @@
          <email>evan.edbert@binus.ac.id</email>
       </author>
       <entry>
-         <id>http://TrackMap.com.dv/SalesMap/CompanyDetail/1/</id>
+         <id>"http://TrackMap.com.dv/SalesMap/CompanyDetail/1"</id>
          <title>Rumah Sakit Mitra Medika</title>	
          <georss:point>-0.0366396002310127 109.32923988720279</georss:point>
          <updated>2021-05-29T12:05:22-13:00</updated>
       </entry>
       <entry>
-         <id>"http://TrackMap.com.dv/SalesMap/CompanyDetail/2/"</id>
+         <id>"http://TrackMap.com.dv/SalesMap/CompanyDetail/2"</id>
          <title>Avatar Games</title>	
          <georss:point>-0.038607713657094235 109.31536715838614</georss:point>
          <updated>2021-05-29T12:05:24-14:00</updated>
       </entry>
       <entry>
-         <id>"http://TrackMap.com.dv/SalesMap/CompanyDetail/3/"</id>
+         <id>"http://TrackMap.com.dv/SalesMap/CompanyDetail/3"</id>
          <title>Rumah Shabby And Roof Top Cafe</title>	
          <georss:point>-0.03504574089089836 109.31781333313462</georss:point>
          <updated>2021-05-29T12:04:26-15:00</updated>
