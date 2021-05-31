@@ -25,6 +25,7 @@
          <link rel="alternate" type="text/html" href="http://TrackMap.com.dv/SalesMap/CompanyDetail/2"/>
          <title>Avatar Games</title>	
          <georss:point>-0.038607713657094235 109.31536715838614</georss:point>
+         <summary>Jl. P. Natakusuma No.2 Sungai Bangkong</summary>
          <updated>2021-05-29T12:05:24-14:00</updated>
       </entry>
       <entry>
@@ -32,6 +33,7 @@
          <link rel="alternate" type="text/html" href="http://TrackMap.com.dv/SalesMap/CompanyDetail/3"/>
          <title>Rumah Shabby And Roof Top Cafe</title>	
          <georss:point>-0.03504574089089836 109.31781333313462</georss:point>
+         <summary>,Jl. P. Natakusuma Sungai Bangkong</summary>
          <updated>2021-05-29T12:04:26-15:00</updated>
       </entry>
       <entry>
@@ -39,6 +41,7 @@
          <link rel="alternate" type="text/html" href="http://TrackMap.com.dv/SalesMap/CompanyDetail/4"/>
          <title>Aming Coffee 2</title>	
          <georss:point>-0.05355410187953165 109.30573647586529</georss:point>
+         <summary>Jl. Slt. Abdurrahman No.25 Sungai Bangkong</summary>
          <updated>2021-05-29T12:04:28-16:00</updated>
       </entry>
       <entry>
@@ -46,6 +49,7 @@
          <link rel="alternate" type="text/html" href="http://TrackMap.com.dv/SalesMap/CompanyDetail/5"/>
          <title>BNI KK M.Yamin</title>	
          <georss:point>-0.05863977283944164 109.307524407686294</georss:point>
+         <summary>Jl. Prof. M.Yamin Sungai Bangkong</summary>
          <updated>2021-05-29T12:04:30-17:00</updated>
       </entry>
       <entry>
@@ -53,6 +57,7 @@
          <link rel="alternate" type="text/html" href="http://TrackMap.com.dv/SalesMap/CompanyDetail/6"/>
          <title>You Computer</title>	
          <georss:point>-0.05113046196673768 109.31503372225269</georss:point>
+         <summary>Jl. Prof. M.Yamin No.20 Kota Baru</summary>
          <updated>2021-05-29T12:04:32-18:00</updated>
       </entry>
       <entry>
@@ -60,6 +65,7 @@
          <link rel="alternate" type="text/html" href="http://TrackMap.com.dv/SalesMap/CompanyDetail/7"/>
          <title>Cakra Arena GOR bulutangkis</title>	
          <georss:point>-0.056096937593034774 109.33573400320833</georss:point>
+         <summary>Gg. Karya Baru 6 No.34 Parit Tokaya</summary>
          <updated>2021-05-29T12:04:34-19:00</updated>
       </entry>
       <entry>
@@ -67,6 +73,7 @@
          <link rel="alternate" type="text/html" href="http://TrackMap.com.dv/SalesMap/CompanyDetail/8"/>
          <title>Klinik Hewan Purnama Pontianak</title>	
          <georss:point>-0.05701076906347077 109.3280260291097</georss:point>
+         <summary>Jl. Komp. Purnama Permai 1 No.2 Parit Tokaya</summary>
          <updated>2021-05-29T12:04:36-20:00</updated>
       </entry>
 </feed>
