@@ -6,7 +6,7 @@
    xmlns:georss="http://www.georss.org/georss"
    xmlns:gml="http://www.opengis.net/gml">
       <title>Pontianak Spot</title>
-      <link rel="self" href="http://TrackMap.com.dv"/>
+      <link rel="self" href="http://TrackMap.com.dv" type="application/rss+xml"/>
       <updated>2021-05-29T12:04:20-10:00</updated>
       <author>
          <name>Evan Edbert</name>
