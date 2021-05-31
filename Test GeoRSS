@@ -13,42 +13,49 @@
          <email>evan.edbert@binus.ac.id</email>
       </author>
       <entry>
-         <id>http://TrackMap.com.dv/SalesMap/CompanyDetail/1</id>
+         <id>"http://TrackMap.com.dv/SalesMap/CompanyDetail/1"</id>
          <title>Rumah Sakit Mitra Medika</title>	
          <georss:point>-0.0366396002310127 109.32923988720279</georss:point>
          <updated>2021-05-29T12:05:22-13:00</updated>
       </entry>
       <entry>
+         <id>"http://TrackMap.com.dv/SalesMap/CompanyDetail/2"</id>
          <title>Avatar Games</title>	
          <georss:point>-0.038607713657094235 109.31536715838614</georss:point>
          <updated>2021-05-29T12:05:24-14:00</updated>
       </entry>
       <entry>
+         <id>"http://TrackMap.com.dv/SalesMap/CompanyDetail/3"</id>
          <title>Rumah Shabby And Roof Top Cafe</title>	
          <georss:point>-0.03504574089089836 109.31781333313462</georss:point>
          <updated>2021-05-29T12:04:26-15:00</updated>
       </entry>
       <entry>
+         <id>"http://TrackMap.com.dv/SalesMap/CompanyDetail/4"</id>
          <title>Aming Coffee 2</title>	
          <georss:point>-0.05355410187953165 109.30573647586529</georss:point>
          <updated>2021-05-29T12:04:28-16:00</updated>
       </entry>
       <entry>
+         <id>"http://TrackMap.com.dv/SalesMap/CompanyDetail/5"</id>
          <title>BNI KK M.Yamin</title>	
          <georss:point>-0.05863977283944164 109.307524407686294</georss:point>
          <updated>2021-05-29T12:04:30-17:00</updated>
       </entry>
       <entry>
+         <id>"http://TrackMap.com.dv/SalesMap/CompanyDetail/6"</id>
          <title>You Computer</title>	
          <georss:point>-0.05113046196673768 109.31503372225269</georss:point>
          <updated>2021-05-29T12:04:32-18:00</updated>
       </entry>
       <entry>
+         <id>"http://TrackMap.com.dv/SalesMap/CompanyDetail/7"</id>
          <title>Cakra Arena GOR bulutangkis</title>	
          <georss:point>-0.056096937593034774 109.33573400320833</georss:point>
          <updated>2021-05-29T12:04:34-19:00</updated>
       </entry>
       <entry>
+         <id>"http://TrackMap.com.dv/SalesMap/CompanyDetail/8"</id>
          <title>Klinik Hewan Purnama Pontianak</title>	
          <georss:point>-0.05701076906347077 109.3280260291097</georss:point>
          <updated>2021-05-29T12:04:36-20:00</updated>
