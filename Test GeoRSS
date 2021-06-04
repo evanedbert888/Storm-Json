@@ -33,7 +33,7 @@
          <link rel="alternate" type="text/html" href="http://TrackMap.com.dv/SalesMap/CompanyDetail/3"/>
          <title>Rumah Shabby And Roof Top Cafe</title>	
          <georss:point>-0.03504574089089836 109.31781333313462</georss:point>
-         <summary>,Jl. P. Natakusuma Sungai Bangkong</summary>
+         <summary>Jl. P. Natakusuma Sungai Bangkong</summary>
          <updated>2021-05-29T12:04:26-15:00</updated>
       </entry>
       <entry>
@@ -75,5 +75,13 @@
          <georss:point>-0.05701076906347077 109.3280260291097</georss:point>
          <summary>Jl. Komp. Purnama Permai 1 No.2 Parit Tokaya</summary>
          <updated>2021-05-29T12:04:36-20:00</updated>
+      </entry>
+      <entry>
+         <id>"http://TrackMap.com.dv/SalesMap/CompanyDetail/9/"</id>
+         <link rel="alternate" type="text/html" href="http://TrackMap.com.dv/SalesMap/CompanyDetail/9"/>
+         <title>Amazon Coffee</title>	
+         <georss:point>-0.0626526847682696 109.33795898542238</georss:point>
+         <summary>Jl. Reformasi No.8A Bansir Laut</summary>
+         <updated>2021-06-4T12:04:38-21:00</updated>
       </entry>
 </feed>
