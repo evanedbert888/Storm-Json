@@ -13,7 +13,7 @@
          <email>evan.edbert@binus.ac.id</email>
       </author>
       <entry>
-         <id>"http://TrackMap.com.dv/SalesMap/CompanyDetail/2"</id>
+         <id>"http://TrackMap.com.dv/SalesMap/CompanyDetail/1"</id>
          <link rel="alternate" type="text/html" href="http://TrackMap.com.dv/SalesMap/CompanyDetail/1"/>
          <title>Rumah Sakit Mitra Medika</title>	
          <georss:point>-0.0366396002310127 109.32923988720279</georss:point>
@@ -83,5 +83,13 @@
          <georss:point>-0.0626526847682696 109.33795898542238</georss:point>
          <summary>Jl. Reformasi No.8A Bansir Laut</summary>
          <updated>2021-06-4T12:04:38-21:00</updated>
+      </entry>
+      <entry>
+         <id>"http://TrackMap.com.dv/SalesMap/CompanyDetail/10/"</id>
+         <link rel="alternate" type="text/html" href="http://TrackMap.com.dv/SalesMap/CompanyDetail/10"/>
+         <title>Digulis Park Pontianak</title>	
+         <georss:point>-0.05436501606936293 109.35004468487537</georss:point>
+         <summary>Jl. Jenderal Ahmad Yani No.114 Bansir Laut</summary>
+         <updated>2021-06-4T12:04:40-22:00</updated>
       </entry>
 </feed>
