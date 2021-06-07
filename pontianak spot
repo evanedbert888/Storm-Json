@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "name": "Pontianak_Spot",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+  { "type": "Feature", "properties": { "Id": "01", "Name": "Rumah Sakit Mitra Medika", "Business": "Health", "latitude": -0.036639600231012703, "Longitude": 109.32923988720279 }, "geometry": { "type": "Point", "coordinates": [ 109.329239887202789, -0.036639600231013 ] } },
+  { "type": "Feature", "properties": { "Id": "02", "Name": "Avatar Games", "Business": "Entertainment", "latitude": -0.038607713657094235, "Longitude": 109.31536715838614 }, "geometry": { "type": "Point", "coordinates": [ 109.315367158386138, -0.038607713657094 ] } },
+  { "type": "Feature", "properties": { "Id": "03", "Name": "Rumah Shabby & Roof Top Cafe", "Business": "Fashion", "latitude": -0.035045740890898361, "Longitude": 109.31781333313462 }, "geometry": { "type": "Point", "coordinates": [ 109.317813333134623, -0.035045740890898 ] } },
+  { "type": "Feature", "properties": { "Id": "04", "Name": "Aming Coffee 2", "Business": "Cafe", "latitude": -0.053554101879531649, "Longitude": 109.30573647586529 }, "geometry": { "type": "Point", "coordinates": [ 109.305736475865288, -0.053554101879532 ] } },
+  { "type": "Feature", "properties": { "Id": "05", "Name": "BNI KK M.Yamin", "Business": "Bank", "latitude": -0.058639772839441641, "Longitude": 109.30752440768629 }, "geometry": { "type": "Point", "coordinates": [ 109.307524407686287, -0.058639772839442 ] } },
+  { "type": "Feature", "properties": { "Id": "06", "Name": "You Computer", "Business": "Technology", "latitude": -0.051130461966737678, "Longitude": 109.31503372225269 }, "geometry": { "type": "Point", "coordinates": [ 109.315033722252693, -0.051130461966738 ] } },
+  { "type": "Feature", "properties": { "Id": "07", "Name": "Cakra Arena GOR bulutangkis", "Business": "Sports", "latitude": -0.056096937593034774, "Longitude": 109.33573400320833 }, "geometry": { "type": "Point", "coordinates": [ 109.33573400320833, -0.056096937593035 ] } },
+  { "type": "Feature", "properties": { "Id": "08", "Name": "Klinik Hewan Purnama Pontianak", "Business": "Health", "latitude": -0.057010769063470773, "Longitude": 109.32802602910969 }, "geometry": { "type": "Point", "coordinates": [ 109.328026029109694, -0.057010769063471 ] } },
+  { "type": "Feature", "properties": { "Id": "09", "Name": "Amazon Coffee", "Business": "Cafe", "latitude": -0.062652684768269601, "Longitude": 109.33795898542238 }, "geometry": { "type": "Point", "coordinates": [ 109.337958985422375, -0.06265268476827 ] } },
+  { "type": "Feature", "properties": { "Id": "10", "Name": "Laboratorium Klinik Prodia", "Business": "Health", "latitude": -0.036707814397645935, "Longitude": 109.33509829295529 }, "geometry": { "type": "Point", "coordinates": [ 109.335098292955294, -0.036707814397646 ] } },
+  { "type": "Feature", "properties": { "Id": "11", "Name": "Mitra Mart", "Business": "Supermarket", "latitude": -0.019296648527136074, "Longitude": 109.32044443536213 }, "geometry": { "type": "Point", "coordinates": [ 109.320444435362134, -0.019296648527136 ] } },
+  { "type": "Feature", "properties": { "Id": "12", "Name": "Mr Cakes And Bakery", "Business": "Pastry", "latitude": -0.040094832322255504, "Longitude": 109.30594911202155 }, "geometry": { "type": "Point", "coordinates": [ 109.305949112021551, -0.040094832322256 ] } },
+  { "type": "Feature", "properties": { "Id": "13", "Name": "SPBU Kota Baru Ujung", "Business": "Gas Station", "latitude": -0.061748667196252563, "Longitude": 109.30439957108824 }, "geometry": { "type": "Point", "coordinates": [ 109.30439957108824, -0.061748667196253 ] } },
+  { "type": "Feature", "properties": { "Id": "14", "Name": "Museum Provinsi Kalimantan Barat", "Business": "Museum", "latitude": -0.047690141657170546, "Longitude": 109.34253536951987 }, "geometry": { "type": "Point", "coordinates": [ 109.342535369519865, -0.047690141657171 ] } },
+  { "type": "Feature", "properties": { "Id": "15", "Name": "Hotel Merpati", "Business": "Hotel", "latitude": -0.046299459264965238, "Longitude": 109.35517009007846 }, "geometry": { "type": "Point", "coordinates": [ 109.35517009007846, -0.046299459264965 ] } },
+  { "type": "Feature", "properties": { "Id": "16", "Name": "Digulis Park Pontianak", "Business": "Park", "latitude": -0.054365016069362927, "Longitude": 109.35004468487537 }, "geometry": { "type": "Point", "coordinates": [ 109.350044684875371, -0.054365016069363 ] } }
+  ]
+}
